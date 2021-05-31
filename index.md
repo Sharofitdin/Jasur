@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset='utf-8'>
+  <meta name='viewport' content='width=device-width'>
+  <title>Gizlilik Sözleşmesi</title>
+  <style>
+    body {
+      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      padding: 1em;
+    }
+  </style>
+</head>
+
+<body>
+  <h1><strong>Gizlilik Sözleşmesi</strong></h1>
+  <p>
+    Sharofitdin Tajinarov tarafından yayımlanan bu uygulama (Jasur) tamamen ücretsizdir ve herkez tarafından indirilip
+    hiç bir kısıtlama olmaksızın kullanılabilir.
+  </p>
+  <p>
+    Bu sayfa, Jasur uygulaması kullanıcılarını bilgilendirmek amacı ile oluşturulmuştur.
+  </p>
+  <p>
+    Hizmeti kullanmayı seçerseniz, bu politikayla ilgili bilgilerin toplanmasını ve kullanılmasını kabul etmiş
+    olursunuz. Toplanılan kişisel bilgiler bu hizmeti sağlamak ve geliştirmek için kullanılır. Bilgilerinizi bu Gizlilik
+    Sözleşmesi'nde belirtilenler dışında kullanılmaz veya kimseyle paylaşılmaz.
+  </p>
+  <p><strong>Bilgi Toplama ve Kullanma</strong></p>
+  <p>
+    Hizmetimizden tam anlamıyla yararlanabilmeniz için sizden kayıt sırasında "Ad", "Soyad" ve "Telefon Numarası" talep
+    edilmektedir. Bu bilgiler Google Firebase sunucularında güvenli şekilde depolanmakta ve korunmaktadır.
+  </p>
+  <p>
+    Toplanılan bu bilgiler sadece sizin izin verdiğiniz "bağlandığınız" kişilere gösterilmektedir.
+  </p>
+  <p><strong>Hata Bilgisi</strong></p>
+  <p>
+    Uygulamada hata oluştuğunda herhangi bir bilgi toplanmaz.
+  </p>
+  <p><strong>Çerezler</strong></p>
+  <p>
+    Uygulamada hiç bir şekilde çerez kullanılmamıştır.
+  </p>
+  <p><strong>Güvenlik</strong></p>
+  <p>
+    Bilgilerinizin güvenliği Google Firebase hizmetinin Jasur uygulaması ile iletişimi ve bu uygulamadan gönderilen bilgilerin depolama güvenliği ile doğru orantılıdır. Bilgiler https üzerinden iletilmekte ve firebase erişim kuralları ile korunmaktadır. Detaylı bilgi için şu linki <a href="https://policies.google.com/privacy">https://policies.google.com/privacy</a> ziyaret edebilirsiniz.
+  </p>
+  <p><strong>Çocuk Güvenliği</strong></p>
+  <p>
+    Bu uygulama 4+ çocuklar tarafından kullanılabilir ve hiç bir tehlike içermemektedir ve hiç bir şekilde ekstra bilgi toplanmamaktadır.
+  </p>
+  <p><strong>Bu Sayfada Yapılabilecek Olan Değişiklikler</strong></p>
+  <p>
+    Ugulama güncellemeleri yayınlandıkça bu dokümanda değişiklikler olabilir dolayısı ile her güncelleme ile bu dokümanı ziyaret etmeniz tavsiye edilir.
+  </p>
+  <p><strong>Bize Ulaşın</strong></p>
+  <p>
+    Gizlilik Sözleşmesi hakkında sorularınız için jasurbazarov2020@gmail.com a mail atarak ulaşım sağlayabilirsiniz. 1 ila 3 iş gününde geri dönüş sağlayabiliriz.
+  </p>
+</body>
+
+</html>
